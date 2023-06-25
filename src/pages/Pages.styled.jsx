@@ -51,7 +51,7 @@ export const LinkButton = styled(Link)`
 // Movies Styles
 export const MoviesSearchButton = styled('button')`
   font-size: 20px;
-  background-color: black;
+  background-color: gray;
   color: white;
   border: none;
   border-radius: 5px;
