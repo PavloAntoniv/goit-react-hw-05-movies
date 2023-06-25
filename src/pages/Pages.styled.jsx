@@ -103,7 +103,7 @@ export const NavItem = styled(NavLink)`
   &:focus,
   :hover {
     color: white;
-    background-color: black;
+    background-color: gray;
   }
   &.active {
     color: white;
